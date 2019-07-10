@@ -1,4 +1,4 @@
-# StockQcrawler
+# Stock Qcrawler
 python code for crawling stock market index data from StockQ
 # Usage
 因為資料是表格，比起beautifulsoup更適合用pandas
